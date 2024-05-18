@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0px;
+}
+h1 {
+    background-color: black;
+    min-height: 50px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section{
+    padding: 270px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+button {
+    min-height: 30px;
+    min-width: 90px;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
